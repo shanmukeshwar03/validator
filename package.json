@@ -1,0 +1,23 @@
+{
+  "name": "password-meter",
+  "version": "1.0.0",
+  "description": "check your password strength online",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "start": "next start",
+    "build": "next build",
+    "eject": "next eject"
+  },
+  "keywords": [
+    "password , strength",
+    "reactjs",
+    "nextjs",
+    "security"
+  ],
+  "author": "shanmukeshwar",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^10.2.3"
+  }
+}
